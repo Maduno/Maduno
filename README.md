@@ -4,13 +4,13 @@
 <!-- ![64786f790030895a9e99e54b1a2fb22a](https://user-images.githubusercontent.com/108086683/208324894-1fcf78ce-65c6-478a-80ed-701eb6c04d9b.gif) -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Software+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40luixh.;-+Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 <!-- Perfil de Discord -->
 <p align="center"> 
   <a href="https://dsc.bio/luixh">
-  <img src="https://lanyard.cnrad.dev/api/500095712348995584?theme=light&bg=008d9e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
+  <img src="https://lanyard.cnrad.dev/api/799431815249133659?theme=light&bg=008d9e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
 </a>
 <br />
 <p align="center">
@@ -52,7 +52,7 @@
   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <!--<img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>-->
-  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <!--<img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>-->
   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
@@ -62,15 +62,14 @@
 <details open> 
   <summary><h2>🖥️ About Me</h2></summary>
   
-Hi, I'm @benxh. I'm a programming student, I have experience in systems development. I work with programs like Visual Code Studio, Visual Code and IntelliJ IDEA. I also really like sports and Fitness world.🌱Currently I'm learning to program in Java, I have some pending projects.
+Hi, I'm @luixh. I'm a programming student, I have experience in systems development. I work with programs like Visual Code Studio, Visual Code and IntelliJ IDEA. I also really like sports and Fitness world.🌱Currently I'm learning to program in Java, I have some pending projects.
 
 </details>
 
 <details open> 
   <summary><h2>🗑️ Abandoned Projects</h2></summary>
   
-  - Garou Discord Bot
-  - Keytan Network Page
+  - None
 
   <!--<p align="center"> 
     <img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
