@@ -14,11 +14,11 @@
 </a>
 <br />
 <p align="center">
-  <a href="https://www.google.com/maps/place/Chile/@-35.4432106,-106.2422428,4z/data=!3m1!4b1!4m6!3m5!1s0x9662c5410425af2f:0x505e1131102b91d!8m2!3d-35.675147!4d-71.542969!16zL20vMDFwMXY?hl=es">
+  <a href="https://www.google.com/maps/place/Lima,+Per%C3%BA/@-12.0262542,-77.1525884,11z/data=!3m1!4b1!4m6!3m5!1s0x9105c5f619ee3ec7:0x14206cb9cc452e4a!8m2!3d-12.0463731!4d-77.042754!16zL20vMGxwZmg?hl=es">
     <img 
     alt="banner" 
-    title="chile"
-    src="https://custom-icon-badges.demolab.com/badge/Santiago-CH-red?style=for-the-badge&logo=location&logoColor=white"/>
+    title="Peru"
+    src="https://custom-icon-badges.demolab.com/badge/Lima-PE-red?style=for-the-badge&logo=location&logoColor=white"/>
   </a>
   
   <a href="https://www.youtube.com/channel/UCrrHq3tp3lKp8x5ZhJLKMDw">
