@@ -21,7 +21,7 @@
     src="https://custom-icon-badges.demolab.com/badge/Lima-PE-red?style=for-the-badge&logo=location&logoColor=white"/>
   </a>
   
-  <a href="https://www.youtube.com/channel/UCrrHq3tp3lKp8x5ZhJLKMDw">
+  <a href="https://www.youtube.com/@kohho7510/featured">
     <img 
     alt="banner" 
     title="youtube"
